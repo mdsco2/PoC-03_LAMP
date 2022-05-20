@@ -1,4 +1,4 @@
-# Prova de Conceito 03: montando um LAMP com o Docker
+# Prova de Conceito 03: Montando um LAMP com o Docker
 
 Repositório destinado a resolução do seguinte problema:
 
